@@ -2,7 +2,7 @@
 
 ## Group: Kailin Cannon, [Sabrina Kennedy](https://github.com/skenne21), and [Charles Yach](https://github.com/CharlesY712)
 
-## Static version of the website (no login): http://movie-tracker.surge.sh/
+### Static version of the website (no login): http://movie-tracker.surge.sh/
 
 ## Description
 
