@@ -1,6 +1,6 @@
 # Movie Tracker
 
-## Group: Kailin Cannon, Sabrina Kennedy, and Charles Yach
+## Group: Kailin Cannon, [Sabrina Kennedy](https://github.com/skenne21), and [Charles Yach](https://github.com/CharlesY712)
 
 ## Description
 
