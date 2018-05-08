@@ -4,7 +4,7 @@
 
 ## Description
 
-This project served as practice with using Redux-react, React, BrowserRouter, Async Await, and a PostgreSQL backend server. For this project we started with the 'create-react-app' boilerplate to make a NetFLIX like app that pulls in current movies from the moveDB api, keeps track of user information by posting to the backend, and lets the user store their favorite in both the redux store and PostgreSQL backend. Jest, Enzyme, and manual mock implementation were used to test the app along with PropTypes to validate props passed to each component.
+This two-week project served as practice with using Redux-react, React, BrowserRouter, Async Await, and a PostgreSQL backend server. For this project we started with the 'create-react-app' boilerplate to make a NetFLIX like app that pulls in current movies from the moveDB api, keeps track of user information by posting to the backend, and lets the user store their favorite in both the redux store and PostgreSQL backend. Jest, Enzyme, and manual mock implementation were used to test the app along with PropTypes to validate props passed to each component.
 
 ## Set Up
 
